@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning [@CoderAcademy_au](https://www.coderacademy.edu.au/) Flex-track Bootcamp
 
-👯 I’m looking to collaborate on anything react.js | next.js | blockchain
+👯 I’m looking to collaborate on anything react.js | next.js | blockchain (especially XRPL)
 
 🤔 I’m looking for help with draftit 
 
