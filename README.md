@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on wireframing draftit
 
-🌱 I’m currently learning [@CoderAcademy_au](https://www.coderacademy.edu.au/) Flex-track Bootcamp
+🌱 I’m currently learning [@CoderAcademy_au](https://www.coderacademy.edu.au/) Flex-track Coding Bootcamp
 
 👯 I’m looking to collaborate on anything react.js | next.js | blockchain (especially XRPL)
 
