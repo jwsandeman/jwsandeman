@@ -12,5 +12,5 @@
 
 ⚡ Fun fact: I spent 2 years living in Canada 🏂  on a working holiday
 
-⛳ Interests: Golf | Snowboarding | Coding(#Reactjs #Nextjs #Tailwindcss) | Reading & Writing(#Scifi #Fantasy) | Crypto(#XRP #XLM #XDC #QNT #HBAR #ALBT #0doubt)
+⛳ Interests: Coding(#Reactjs #Nextjs #Tailwindcss) | New Technology | Crypto(#XRP #XLM #XDC #QNT #HBAR #ALBT #0doubt) | Reading & Writing(#Scifi #Fantasy) | Golf | Snowboarding 
 
