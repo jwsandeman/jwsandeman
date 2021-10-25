@@ -1,12 +1,12 @@
 ### Greetings!
 
-🔭 I’m currently working on wireframing draftit
+🔭 I’m currently working on: wireframing my side project draftit (project management/social platform app for creative writers) 
 
-🌱 I’m currently learning [@CoderAcademy_au](https://www.coderacademy.edu.au/) Flex-track Coding Bootcamp
+🌱 I’m currently learning: [@CoderAcademy_au](https://www.coderacademy.edu.au/) Flex-track Coding Bootcamp
 
-👯 I’m looking to collaborate on anything react.js | next.js | blockchain (especially XRPL)
+👯 I’m looking to collaborate on: anything react.js | next.js | blockchain (especially XRPL)
 
-🤔 I’m looking for help with draftit 
+🤔 I’m looking for: fulltime dev role and help with my side project draftit
 
 📫 How to reach me: jw.sandeman@gmail.com | [twitter](https://twitter.com/jwsandeman) | [LinkedIn](https://www.linkedin.com/in/jason-sandeman-33268496/)
 
