@@ -1,6 +1,6 @@
 ### Greetings!
 
-🔭 I’m currently working on: wireframing my side project draftit (project management/social platform app for creative writers) 
+🔭 I’m currently working on: my side project draftit (project management/social platform app for creative writers) 
 
 🌱 I’m currently learning: [@CoderAcademy_au](https://www.coderacademy.edu.au/) Flex-track Coding Bootcamp
 
