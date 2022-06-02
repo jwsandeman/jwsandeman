@@ -32,7 +32,7 @@
 
 <h3 align="left">A passionate junior full stack developer from Brisbane</h3>
 
-🔭 I’m currently working on: **prototyping draftit - a complex worldbuilding app for writers**
+🔭 I’m currently working on: **prototyping draftit - a complex social worldbuilding platform for creative writers**
 
 🌱 I’m currently learning: **[@CoderAcademy_au](https://www.coderacademy.edu.au/) Full Stack Developer Coding Bootcamp**
 
