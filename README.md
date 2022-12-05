@@ -19,7 +19,7 @@
 <h1 align="center">Hi 👋, I'm Jason Sandeman</h1>
 
 <div align="center" id="badges">
-    <a href="https://festive-aryabhata-690f3c.netlify.app/index.html" target="_blank">
+    <a href="https://jasonsandeman.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="28" alt="Portfolio Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/jason-sandeman/" target="_blank">
@@ -32,7 +32,7 @@
 
 <br />
 
-<h3 align="left">A passionate junior full stack developer from Brisbane</h3>
+<h3 align="left">A passionate full stack developer from Queensland</h3>
 
 🔭 I’m currently working on: **prototyping draftit - a complex social worldbuilding platform for creative writers**
 
