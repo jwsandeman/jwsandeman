@@ -34,15 +34,15 @@
 
 <h3 align="left">A passionate full stack developer from Queensland</h3>
 
-🔭 I’m currently working on: **prototyping draftit - a complex social worldbuilding platform for creative writers**
+🔭 I’m currently working on: **prototyping SpinTheYarn - a complex social worldbuilding platform for creative writers**
 
-🌱 I’m currently learning: **[@CoderAcademy_au](https://www.coderacademy.edu.au/) Full Stack Developer Coding Bootcamp**
+🌱 I’m currently learning: **Blitzjs**
 
 👯 I’m looking to collaborate on: **anything react.js | next.js | blockchain (especially XRPL)**
 
-🤝 I’m looking for help with: **draftit**
+🤝 I’m looking for help with: **SpinTheYarn**
 
-⛳ Interests: **Golf | Snowboarding | Coding(#Reactjs #Nextjs #Tailwindcss) | Reading & Writing(#Scifi #Fantasy) | Crypto(#XRP #XLM #XDC #QNT #HBAR #ALBT #0doubt)**
+⛳ Interests: **Golf | Snowboarding | Coding(#Reactjs #Nextjs) | Reading & Writing(#Scifi #Fantasy) | Crypto(#XRP #XLM #XDC #QNT #HBAR #ALBT)**
 
 📫 How to reach me: **jw.sandeman@gmail.com | [twitter](https://twitter.com/jwsandeman) | [LinkedIn](https://www.linkedin.com/in/jason-sandeman-33268496/)**
 
