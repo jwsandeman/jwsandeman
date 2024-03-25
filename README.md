@@ -34,7 +34,7 @@
 
 <h3 align="left">A passionate full stack developer from Queensland</h3>
 
-🔭 I’m currently working on: **SpinTheYarn - a complex social worldbuilding platform for creative writers**
+🔭 I’m currently working on: **SpinTheYarn - a social worldbuilding platform for creative writers**
 
 🌱 I’m currently learning: **Blitzjs**
 
