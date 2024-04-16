@@ -34,15 +34,15 @@
 
 <h3 align="left">A passionate full stack developer from Queensland</h3>
 
-🔭 I’m currently working on: **SpinTheYarn - a social worldbuilding platform for creative writers**
+🔭 I’m currently working on: **SpinTheYarn - a social worldbuilding platform for creative writers | EEFC - Soccer Club Web App**
 
-🌱 I’m currently learning: **Blitzjs**
+🌱 I’m currently learning: **Remix**
 
-👯 I’m looking to collaborate on: **anything react.js | next.js | blockchain (especially XRPL)**
+👯 I’m looking to collaborate on: **anything react.js | blockchain**
 
 🤝 I’m looking for help with: **SpinTheYarn**
 
-⛳ Interests: **Golf | Snowboarding | Coding(#Reactjs #Nextjs) | Reading & Writing(#Scifi #Fantasy) | Crypto(#XRP #XLM #XDC #QNT #HBAR #ALBT)**
+⛳ Interests: **Golf | Snowboarding | Coding(#Reactjs #Remix) | Reading & Writing(#Scifi #Fantasy) | Crypto(#XRP #XLM #XDC #QNT #HBAR #NEXERA)**
 
 📫 How to reach me: **jw.sandeman@gmail.com | [twitter](https://twitter.com/jwsandeman) | [LinkedIn](https://www.linkedin.com/in/jason-sandeman-33268496/)**
 
